@@ -1,4 +1,4 @@
-# Unit5-01-PHP-NumberDisplay
+# Unit5-01-HTML-NumberDisplay
 [![GitHub's Super Linter](https://github.com/ICS2O-Programming-TonyT/Unit5-01-PHP-NumberDisplay/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS2O-Programming-TonyT/Unit5-01-PHP-NumberDisplay/actions)
 
 
